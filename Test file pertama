@@ -1,0 +1,15 @@
+# Nama Proyek
+
+Ini adalah proyek awal saya di GitHub.  
+File ini dibuat menggunakan fitur **Create new file** dari GitHub.
+
+## Fitur
+
+- Inisialisasi repository
+- Komit pertama langsung dari web GitHub
+- Dokumentasi awal
+
+## Cara Menjalankan
+
+```bash
+php artisan serve
